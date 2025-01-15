@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/joao-vitor-lemes/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/joaovitor-lemes/Projetos/issues)
+[![author](https://img.shields.io/badge/author-JoaoVitor-red.svg)](https://www.linkedin.com/in/joao-vitor-lemes/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/joaovitor-lemes/Projetos/issues)
 
 <p align="center">
   <img src="https://img.freepik.com/vetores-gratis/fundo-de-diagrama-de-circuito-de-rosto-de-tecnologia_1017-18300.jpg?t=st=1736971479~exp=1736975079~hmac=29a31a2483e6476f66fe4955d48a556dbe5b72e6cd852eea500cf4bdd7023525&w=1480" >
@@ -12,7 +12,7 @@ Sou engenheiro com mais de 4 anos de experiência relevante, tendo gerado muitos
 Em todas as empresas em que trabalhei, sempre me destaquei por ser um pioneiro na utilização de novas tecnologias para alcançar metas desafiadoras, independentemente da dificuldade técnica, e por manter sempre um excelente relacionamento com os clientes.
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python e Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joao-vitor-lemes/)
