@@ -21,7 +21,7 @@ Em todas as empresas em que trabalhei, sempre me destaquei por ser um pioneiro n
 ## Projetos:
 Veja meus artigos publicados:
 
-* 
+* Fatores que alteram a demanda - https://bit.ly/4hiwKjG
 * 
 * 
 
